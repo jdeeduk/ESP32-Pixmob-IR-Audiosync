@@ -2,6 +2,11 @@
 
 An ESP32-based controller for Pixmob LED devices that creates synchronized light shows at home. This project allows you to control Pixmob LED devices (commonly used in concerts and events) through either sound detection or Bluetooth commands.
 
+## Example
+
+https://github.com/user-attachments/assets/a638be71-a2f4-4721-8acb-c009e9496dcd
+
+
 ## Overview
 
 This project uses an ESP32 microcontroller to send infrared signals to Pixmob LED devices, creating synchronized light shows. The system supports two modes of operation:
